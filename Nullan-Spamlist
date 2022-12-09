@@ -1,4 +1,4 @@
-||browser.sentry-cdn.com^
+||*.sentry-cdn.com^
 ||app.getsentry.com^
 ||advertising.twitter.com^
 ||ads.reddit.com^
@@ -7,4 +7,4 @@
 ||ads.tiktok.com^
 ||ads.facebook.com^
 ||business.samsungusa.com^
-||app.bugsnag.com^
+||api.bugsnag.com^
